@@ -45,9 +45,9 @@ e665cb233489   mysql:5.7             "docker-entrypoint.s…"   59 minutes ago  
 ```
 Pronto! Agora você pode abrir o navegador de sua preferência e digitar o endereço:  http://127.0.0.1/ se tudo está ok você vai receber algo parecido com isso:
 
-## Versão Atual do PHP: 5.6.40
+** Versão Atual do PHP: 5.6.40 **
 
-## Conectedo com Sucesso! 
+** Conectedo com Sucesso!  **
 
 ## Conclusão
 
