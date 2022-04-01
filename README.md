@@ -1,4 +1,4 @@
-# Projeto PHP 5.6 e MysQl Unifique
+# Projeto PHP 5.6 e MySQL Unifique
 
 
 ## Objetivo
