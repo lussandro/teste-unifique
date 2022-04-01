@@ -5,6 +5,14 @@
 
 Este projeto tem como objetivo demonstrar a habiliade para criação de um container **PHP 5.6** conectando com **Mysql/MARIADb**.
 
+## Descrição do Projeto
+
+Foi criando um container do PHP e do MySQL. Uma pagina simples foi adicionada apneas para exemplicar a conexão com o banco retornando se a mesma está ok ou não. 
+Editando o arquivo docker-compose.yml, você pode observar os detalhes da criação dos 2 containeres e os dados de conexão do mesmo, que são utilizados no arquivo de teste de conexão em html/index.php.
+O arquivo index.php fica na pasta html, que é um volume persistente criado no arquivo Dockerfile que acompanha o projeto.
+Eu hospedei uma imagem pronta do container em lussandro/php-teste no dockerhub. É um repositório público e caso queira buildar a sua imagem você pode alterar a referência a ela dentro do docker-compose.yml
+Ainda adicionei ao projeto o arquivo Jenkins-pipeline.groovy que é uma pipeline simples para ser usada no jenkins e automatizar o deploy.
+
 ## Requisitos Necessários
 
 Para o bom funcionamento do Projeto, é necessário a utilização do docker em sua ultima versão, disponível em: **[Site Oficial Docker](https://www.docker.com/)**.
