@@ -47,7 +47,7 @@ Pronto! Agora você pode abrir o navegador de sua preferência e digitar o ender
 
 **Versão Atual do PHP: 5.6.40**
 
-**Conectedo com Sucesso!**
+**Conectado com Sucesso!**
 
 ## Conclusão
 
